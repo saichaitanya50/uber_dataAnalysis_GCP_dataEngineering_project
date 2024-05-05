@@ -52,6 +52,4 @@ https://lookerstudio.google.com/s/v-x46fPyW98
 
 
 
----
 
-You can fill in the details under each section according to your project specifications. This structure provides a clear organization of the repository content, making it easy for users to understand and navigate through the project.
