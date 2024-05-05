@@ -17,6 +17,12 @@ The Uber Analytics Data Engineering project utilizes Google Cloud Platform (GCP)
 ## Data Source
 - [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
+Looker Studio DashBoard:
+
+https://lookerstudio.google.com/s/v-x46fPyW98
+
+
+
 
 
 **Data architecture and Data Modelling**:
